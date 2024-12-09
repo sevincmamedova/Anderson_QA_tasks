@@ -194,8 +194,8 @@ The following improvements were made based on feedback:
 
 ## Author  
 **Sevish Mamedova**  
-- GitHub: [yourusername](https://github.com/yourusername)  
-- LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)  
+- GitHub: [sevincmamedova](https://github.com/sevincmamedova)  
+- LinkedIn: [sevincmamedova](https://www.linkedin.com/in/sevinc-mamedova-3a44122a5)  
 
 ---
 
